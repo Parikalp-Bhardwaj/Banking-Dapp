@@ -1,5 +1,5 @@
 
-![BankingApp](https://user-images.githubusercontent.com/53660958/188001469-26c65124-f86b-4e8d-a2ac-c2e362da631b.gif)
+
 
 # Basic Sample Hardhat Project
 
